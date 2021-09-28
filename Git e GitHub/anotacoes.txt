@@ -1,6 +1,162 @@
-::::CURSO GIT E GITHUB | CURSO EM VÍDEO | GUSTAVO GUANABARA::::
+1.O QUE É GIT? O QUE É VERSIONAMENTO?
+2.O QUE É GITHUB? PRA QUE ELE SERVE?
+3.A EVOLUÇÃO DO GIT E GITHUB
+4.INSTALAÇÕES E CONFIGURAÇÕES IMPORTANTES
+5.CRIANDO O PRIMEIRO REPOSITÓRIO
+6.INSTALANDO GITHUB DESKTOP NO LINUX
+7.CLONANDO UM REPOSITÓRIO
+8.VERSIONANDO SEUS PROJETOS ANTIGOS
+9.VOCÊ SABE USAR ISSUES?
+10.GUIA DA LINGUAGEM MARKDOWN
+11.SEU GITHUB MUITO MAIS SEGURO
+12.GIT BRANCHES DE FORMA FÁCIL E COM EXEMPLO
+13.HOSPEDAGEM GRÁTIS NO GITHUB PAGES
 
-Instalação: 
+1.O QUE É GIT? O QUE É VERSIONAMENTO?
 
-Programas:
+VERSIONAMENTO (VCS)
+GIT -> Software de controle de versão
+GITHUB -> Repositório remóto / Plataforma de Rede Social para Desenvolvedores
+
+VCS CENTRAIZADO/LINEAR -> Repositório central
+VCS DISTRIBUIDO -> Repositório local
+VCS DISTRIBUIDO -> Repositório remoto
+
+arquivo
+pasta
+pasta.zip
+pasta-v2.zip
+pasta-v3.zip
+…
+pasta-vxpto-erro.zip
+pasta.vxpto-erroxpto.zip
+…
+
+commit = “zip” ou “zipar”
+push = 
+
+Vantagens:
+Controle de histórico
+Trabalho em equipe
+Ramificação do projeto
+Segurança
+
+2.O QUE É GITHUB? PRA QUE ELE SERVE?
+
+Repositório remoto
+Repositórios ilimitados
+Hospedagem de código-fonte
+Características de rede-social
+GitHub Pages integrado
+Colaboração
+
+3.A EVOLUÇÃO DO GIT E GITHUB
+
+1985
+CVS
+Centralizado (precisa de um servidor)
+Open Source
+Mais popular
+Alguns problemas
+
+2000
+SVN
+Centralizado
+Open Source
+Ativo até hoje
+CVS-like
+
+2000
+BitKeeper
+Distribuido
+Proprietário
+Versão comunidade
+CVS-free
+
+2004
+BitKeeper
+SourcePuller
+Engenharia Reversa
+Recurso destravado
+
+2005
+BitKeeper
+Nova licença
+Acesso a metadados
+Só na versão comercial
+
+2005
+Git
+Distribuido
+Open Source
+Feito em 10 dias
+Performance
+
+2008
+GitHub
+Proprietário
+Hospedagem de código
+Baseado em Git
+2009: 46K repositórios
+2010: 100K user / 1M repositórios
+2011: Ultrapassou SourceForge
+2013: 3M users / 5M repositórios
+2016: 14º lugar na lista da forbes
+2018: Maior ataque de DDoS da história
+
+2018
+GitHub
+Adquiridos pela Microsoft
+US$ 7.5 Bilhões
+Operação independente
+2020: GitHub compra a npm 
+
+
+4.INSTALAÇÕES E CONFIGURAÇÕES IMPORTANTES
+
+
+
+1º.Navegador: Brave, ...
+2º.Editor de código: VSCode, ...
+3º.Repositório local: Git, …
+
+Instalação git via terminal:
+sudo apt update
+sudo apt upgrade
+sudo apt install git
+
+Instalação git e github desktop:
+Gerenciador de aplicativos
+
+Verificar versão:
+git --version 
+
+4º.Repositório remoto: GitHub, …
+
+5.CRIANDO O PRIMEIRO REPOSITÓRIO
+Criação do repositório: Local e Remoto
+
+Commit - Atualizar as alterações
+Push - Enviar do repositório local para o repositório remoto
+Pull - Trazer do repositório remoto para o repositório local
+
+
+
+
+
+6.INSTALANDO GITHUB DESKTOP NO LINUX
+
+7.CLONANDO UM REPOSITÓRIO
+
+8.VERSIONANDO SEUS PROJETOS ANTIGOS
+
+9.VOCÊ SABE USAR ISSUES?
+
+10.GUIA DA LINGUAGEM MARKDOWN
+
+11.SEU GITHUB MUITO MAIS SEGURO
+
+12.GIT BRANCHES DE FORMA FÁCIL E COM EXEMPLO
+
+13.HOSPEDAGEM GRÁTIS NO GITHUB PAGES
 
