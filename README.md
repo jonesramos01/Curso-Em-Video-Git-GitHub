@@ -1,2 +1,2 @@
-# Curso-Em-Video-Git-GitHub
- Curso Git e GitHub | Curso em Vídeo
+# Git-GitHub
+ Curso de Git e GitHub | CEV
