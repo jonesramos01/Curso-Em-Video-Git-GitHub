@@ -111,10 +111,17 @@ US$ 7.5 Bilhões
 Operação independente
 2020: GitHub compra a npm 
 
-
 4.INSTALAÇÕES E CONFIGURAÇÕES IMPORTANTES
 
+5.CRIANDO O PRIMEIRO REPOSITÓRIO
+Criação do repositório: Local e Remoto
 
+Commit - Atualizar as alterações.
+Push - Enviar do repositório local para o repositório remoto.
+Pull - Trazer do repositório remoto para o repositório local.
+Fetch - A grosso modo, é recomendado realizar sempre ao iniciar os trabalhos; para atualizar os ambiente de trabalho.
+
+6.INSTALANDO GITHUB DESKTOP NO LINUX
 
 1º.Navegador: Brave, ...
 2º.Editor de código: VSCode, ...
@@ -133,20 +140,15 @@ git --version
 
 4º.Repositório remoto: GitHub, …
 
-5.CRIANDO O PRIMEIRO REPOSITÓRIO
-Criação do repositório: Local e Remoto
-
-Commit - Atualizar as alterações
-Push - Enviar do repositório local para o repositório remoto
-Pull - Trazer do repositório remoto para o repositório local
-
-
-
-
-
-6.INSTALANDO GITHUB DESKTOP NO LINUX
-
 7.CLONANDO UM REPOSITÓRIO
+
+1ª Opção:
+Copiar o endereço do repositório;
+Ir ao github desktop;
+Colar no local para clonar o repositório;
+Escolher o local para aonde será baixado o repositório.
+
+
 
 8.VERSIONANDO SEUS PROJETOS ANTIGOS
 
