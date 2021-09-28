@@ -145,9 +145,10 @@ git --version
 1ª Opção:
 Copiar o endereço do repositório;
 Ir ao github desktop;
-Colar no local para clonar o repositório;
+Colar a URL do repositório no local para clonar o mesmo (Clonar repositório/URL);
 Escolher o local para aonde será baixado o repositório.
 
+OBS: Clonando o repositório de alguem, não é possível realizar alterações; somente visualizar e sugerir alterações ao dono do repositório.
 
 
 8.VERSIONANDO SEUS PROJETOS ANTIGOS
