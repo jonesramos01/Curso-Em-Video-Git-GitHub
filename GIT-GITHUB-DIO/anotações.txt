@@ -1,0 +1,55 @@
+INTRODUÇÃO
+1.LISTAR PASTAS/DIRETÓRIOS
+2.MUDAR DE PASTAS/DIRETÓRIOS
+3.CRIAR PASTAS E ARQUIVOS
+4.DELETAR PASTAS E ARQUIVOS
+5.INSTALAÇÃO DO GIT
+·····························································································
+GUI X CLI
+
+::::1.LISTAR PASTAS/DIRETÓRIOS::::
+
+WINDOWS: dir
+LINUX: ls
+
+ATALHOS ÚTEIS:
+TECLA TAB: AUTO-COMPLETA
+
+::::2.MUDAR DE PASTAS/DIRETÓRIOS (NAVEGAÇÃO)::::
+
+ENTRAR:
+WINDOWS: CD, CD /, CD Nomedapasta
+LINUX: CD, CD /, CD Nomedapasta
+
+SAIR(VOLTAR):
+WINDOWS: CD ..
+LINUX:CD ..
+
+LIMPAR TELA:
+WINDOWS: cls
+LINUX: cleal ou Ctrl + L
+
+::::3.CRIAR PASTAS E ARQUIOS::::
+
+WINDOWS: mkdir Nomedapasta
+LINUX: mkdir Nomedapasta
+
+WINDOWS: echo Nomedoarquivo > Nomedoarquivo.txt
+LINUX:
+
+::::4.DELETAR PASTAS E ARQUIVOS::::
+
+WINDOWS: rmdir Nomedapasta
+LINUX: rm ou rm -rf (deleta e exclui)
+
+::::5.INSTALAÇÃO DO GIT::::
+
+https://git-scm.com/downloads
+
+VIA TERMINAL:
+sudo apt-get update
+sudo apt-get upgrade
+
+sudo apt-get install git
+
+git --version
