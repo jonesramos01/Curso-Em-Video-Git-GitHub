@@ -1,11 +1,17 @@
-INTRODUÇÃO
+.............................................................................................
+::::INTRODUÇÃO::::
+.............................................................................................
 1.LISTAR PASTAS/DIRETÓRIOS
 2.MUDAR DE PASTAS/DIRETÓRIOS
 3.CRIAR PASTAS E ARQUIVOS
 4.DELETAR PASTAS E ARQUIVOS
 5.INSTALAÇÃO DO GIT
+
 ·····························································································
-GUI X CLI
+::::1.NAVEGAÇÃO VIA TERMINAL::::
+.............................................................................................
+
+OBS: GUI X CLI
 
 ::::1.LISTAR PASTAS/DIRETÓRIOS::::
 
@@ -53,3 +59,16 @@ sudo apt-get upgrade
 sudo apt-get install git
 
 git --version
+
+.............................................................................................
+::::2.ENTENDENDO COMO O GIT FUNCIONA::::
+.............................................................................................
+
+::::1.TÓPICOS FUNDAMENTAIS:::::
+
+SHA1
+Objetos fundamentais
+Sistema distribuido
+Segurança 
+
+SHA1 Algoritmo de encriptação (Algoritmo de Hash)
